@@ -1,4 +1,4 @@
-﻿namespace Software_Lab3_Task1
+namespace Software_Lab3_Task1
 {
     partial class Form1
     {
